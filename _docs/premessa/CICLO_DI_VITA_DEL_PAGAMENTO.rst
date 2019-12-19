@@ -1,18 +1,15 @@
-﻿
-|AGID_logo_carta_intestata-02.png|
+|image0|
 
-+---------------------------------------------------------------------------------------------------+
-| **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
-|                                                                                                   |
-|                                                                                                   |
-| *Allegato A alle "Linee guida per l'effettuazione dei pagamenti elettronici a favore delle*       |
-| *pubbliche amministrazioni e dei gestori di pubblici servizi"*                                    |
-|                                                                                                   |
-|                                                                                                   |
-| **Versione 1.3.1 - gennaio 2018**                                                                 |
-+---------------------------------------------------------------------------------------------------+
-
-.. _ciclo-di-vita-del-pagamento:
++-----------------------------------------------------------------------+
+| **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
+| RIVERSAMENTO E RENDICONTAZIONE**                                      |
+|                                                                       |
+| *Allegato A alle "Linee guida per l'effettuazione dei pagamenti       |
+| elettronici a favore delle* *pubbliche amministrazioni e dei gestori  |
+| di pubblici servizi"*                                                 |
+|                                                                       |
+| **Versione 1.3.1 - gennaio 2018**                                     |
++-----------------------------------------------------------------------+
 
 Ciclo di vita del pagamento
 ===========================
@@ -29,7 +26,7 @@ In questa descrizione del “Ciclo di vita” del pagamento l'ordine delle
 fasi è indicativo e può variare a seconda dello scenario e della
 tipologia di servizio al quale si riferisce il pagamento stesso.
 
-|image8|
+|image1|
 
 **Figura 1 - Ciclo di vita del pagamento**
 
@@ -71,10 +68,5 @@ modalità e le informazioni da utilizzare per la fase di regolamento
 contabile e riversamento dei fondi, nonché le modalità con le quali
 effettuare la riconciliazione dei pagamenti presso gli enti creditori.
 
-
-.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
-   :width: 5.90551in
-   :height: 1.30277in
-.. |image8| image:: media/image8.png
-   :width: 5.90551in
-   :height: 3.33513in
+.. |image0| image:: images/header.png
+.. |image1| image:: images/image8.png
