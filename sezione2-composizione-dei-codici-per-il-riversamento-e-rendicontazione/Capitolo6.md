@@ -1,4 +1,4 @@
-![](images/header.png)
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -13,7 +13,7 @@
 
 ::: {#riversamento-agli-enti-creditori}
 6\. Riversamento agli enti creditori
-![](images/image7.png)
+![](../images/image7.png)
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 :::
 

@@ -1,4 +1,4 @@
-![](images/header.png)
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -26,7 +26,7 @@ In questa descrizione del "Ciclo di vita" del pagamento l\'ordine delle
 fasi è indicativo e può variare a seconda dello scenario e della
 tipologia di servizio al quale si riferisce il pagamento stesso.
 
-![](images/image8.png)
+![](../images/image8.png)
 
 **Figura 1 - Ciclo di vita del pagamento**
 

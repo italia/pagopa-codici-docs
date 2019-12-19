@@ -1,4 +1,4 @@
-![](images/header.png)
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -13,7 +13,7 @@
 
 ::: {#operazione-di-trasferimento-fondi}
 4\. Operazione di trasferimento fondi
-![](images/image7.png)
+![](../images/image7.png)
 ====================================
 :::
 
@@ -79,7 +79,7 @@ Creditore nella misura economica direttamente imputabile al PSP.
 
 ::: {#utilizzo-del-bollettino-di-conto-corrente-postale}
 4.2 Utilizzo del bollettino di conto corrente postale
-![](images/image5.png)
+![](../images/image5.png)
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 :::
 
@@ -92,7 +92,7 @@ role="ref"}.
 
 ::: {#rifiuto-del-sepa-credit-transfer}
 4.3 Rifiuto del SEPA Credit Transfer
-![](images/image4.png)
+![](../images/image4.png)
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 :::
 

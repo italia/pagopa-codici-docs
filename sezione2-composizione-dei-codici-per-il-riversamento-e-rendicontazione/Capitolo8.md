@@ -1,5 +1,4 @@
-![AGID\_logo\_carta\_intestata-02.png](images/header.png){width="5.90551in"
-height="1.30277in"}
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -14,7 +13,7 @@ height="1.30277in"}
 
 ::: {#riconciliazione-del-flusso-di-riversamento}
 8\. Riconciliazione del flusso di riversamento
-![image19](images/image7.png){width="0.7874in" height="0.22905in"}
+![](../images/image7.png)
 =============================================
 :::
 

@@ -1,4 +1,4 @@
-![](images/header.png)
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -13,7 +13,7 @@
 
 ::: {#generazione-dellidentificativo-univoco-di-versamento}
 2\. Generazione dell'Identificativo Univoco di Versamento
-![](images/image5.png)
+![](../images/image5.png)
 ========================================================
 :::
 
@@ -133,7 +133,7 @@ b.  **Punti di generazione del Codice IUV**: qualsiasi intermediario o
 Uno schema delle modalità di attribuzione del Codice Segregazione è
 riportata in Figura 2.
 
-![](images/image9.png)
+![](../images/image9.png)
 
 **Figura 2 - Attribuzione del codice segregazione**
 

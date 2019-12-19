@@ -1,5 +1,4 @@
-![AGID\_logo\_carta\_intestata-02.png](media/header.png){width="5.90551in"
-height="1.30277in"}
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |

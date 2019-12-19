@@ -1,4 +1,4 @@
-![](images/header.png)
+![](../images/header.png)
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -13,7 +13,7 @@
 
 ::: {#flusso-di-rendicontazione}
 7\. Flusso di Rendicontazione
-![](images/image7.png)
+![](../images/image7.png)
 ============================
 :::
 
@@ -292,7 +292,7 @@ correlato ad un unico codice IBAN di accredito.
 
 ::: {#precisazioni-sulla-colonna-contenutodella-tabella-4}
 7.1 Precisazioni sulla colonna "contenuto"della Tabella 4
-![](images/image7.png)
+![](../images/image7.png)
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 :::
 
