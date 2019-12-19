@@ -108,4 +108,4 @@ Sintesi dei cambiamenti
 |                                   |                                   |
 +-----------------------------------+-----------------------------------+
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png

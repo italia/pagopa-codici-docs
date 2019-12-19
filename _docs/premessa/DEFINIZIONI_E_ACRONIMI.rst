@@ -154,6 +154,6 @@ Definizioni e Acronimi
 |                  | Creditore.                                        |
 +------------------+---------------------------------------------------+
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png
    :width: 5.90551in
    :height: 1.30277in

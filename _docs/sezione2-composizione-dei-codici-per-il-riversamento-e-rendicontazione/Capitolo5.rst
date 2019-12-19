@@ -49,4 +49,4 @@ relativi all’acquisto della Marca da bollo digitale.
    ex art. 6, comma 2, provvedimento del Direttore dell’Agenzia delle
    Entrate del 19 settembre 2014.
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png

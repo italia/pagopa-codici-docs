@@ -168,7 +168,7 @@ indicare le stesse informazioni sopra riportate (Tabella 4).
    stabilite all’articolo 47 del Decreto legislativo del 13 aprile 1999,
    n. 112.
 
-.. |image0| image:: images/header.png
-.. |image1| image:: images/image7.png
-.. |image2| image:: images/image5.png
-.. |image3| image:: images/image4.png
+.. |image0| image:: ../images/header.png
+.. |image1| image:: ../images/image7.png
+.. |image2| image:: ../images/image5.png
+.. |image3| image:: ../images/image4.png

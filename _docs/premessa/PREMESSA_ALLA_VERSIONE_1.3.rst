@@ -91,7 +91,7 @@ graficamente come segue:
 |                                   | rappresentata.                    |
 +-----------------------------------+-----------------------------------+
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png
 .. |image5| image:: m%20edia/image4.png
    :width: 0.7874in
    :height: 0.24059in

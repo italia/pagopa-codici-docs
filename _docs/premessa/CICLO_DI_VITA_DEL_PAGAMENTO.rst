@@ -68,5 +68,5 @@ modalità e le informazioni da utilizzare per la fase di regolamento
 contabile e riversamento dei fondi, nonché le modalità con le quali
 effettuare la riconciliazione dei pagamenti presso gli enti creditori.
 
-.. |image0| image:: images/header.png
-.. |image1| image:: images/image8.png
+.. |image0| image:: ../images/header.png
+.. |image1| image:: ../images/image8.png

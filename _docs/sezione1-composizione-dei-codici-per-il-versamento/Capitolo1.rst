@@ -45,4 +45,4 @@ tecniche per il protocollo informatico.
 .. [1]
    Vedi http://www.indicepa.gov.it/
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png

@@ -113,4 +113,4 @@ standard ISO 11649, il cui importo è di € 12,34 e contiene una
 comunicazione del debitore inserita dal PSP successivamente
 all’imputazione della disposizione di accredito (SCT).
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png

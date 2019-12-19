@@ -499,6 +499,6 @@ alfanumerico> dovrà essere costante nel corso del tempo.
    Vedi anche il calcolatore di Creditor Reference alla pagina
    http://www.jknc.eu/RFcalculator
 
-.. |image0| image:: images/header.png
-.. |image1| image:: images/image5.png
-.. |image2| image:: images/image9.png
+.. |image0| image:: ../images/header.png
+.. |image1| image:: ../images/image5.png
+.. |image2| image:: ../images/image9.png

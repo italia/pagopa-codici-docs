@@ -1,9 +1,4 @@
-.. figure:: images/header.png
-   :alt: AGID_logo_carta_intestata-02.png
-   :width: 5.90551in
-   :height: 1.30277in
-
-   AGID_logo_carta_intestata-02.png
+|image0|
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -19,7 +14,7 @@
 .. container::
    :name: riconciliazione-del-flusso-di-riversamento
 
-   8. Riconciliazione del flusso di riversamento |image19|
+   8. Riconciliazione del flusso di riversamento |image1|
    =============================================
 
 La riconciliazione del riversamento effettuato dal prestatore di servizi
@@ -42,6 +37,5 @@ Reference) oppure con il dato *End To End Id* (attributo AT-41
 Originator’s Reference to the Credit Transfer) del suddetto SCT di
 riversamento.
 
-.. |image19| image:: images/image7.png
-   :width: 0.7874in
-   :height: 0.22905in
+.. |image0| image:: ../images/header.png
+.. |image1| image:: ../images/image7.png

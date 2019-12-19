@@ -48,4 +48,4 @@ Come riportato nelle citate Linee guida, le presenti specifiche fanno
 riferimento agli standard internazionali SEPA che utilizzano il formato
 `UNIFI ISO 20022 <http://www.iso20022.org/>`__.
 
-.. |image0| image:: images/header.png
+.. |image0| image:: ../images/header.png

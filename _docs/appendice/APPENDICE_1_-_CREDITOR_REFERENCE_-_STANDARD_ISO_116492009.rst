@@ -1,9 +1,4 @@
-.. figure:: media/header.png
-   :alt: AGID_logo_carta_intestata-02.png
-   :width: 5.90551in
-   :height: 1.30277in
-
-   AGID_logo_carta_intestata-02.png
+|image0|
 
 +-----------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
@@ -129,3 +124,5 @@ FINE DOCUMENTO
    L'insieme delle lettere dell'alfabeto latino e dei numeri arabi.
    Appartengono a quest'insieme le lettere minuscole dalla a alla z, le
    maiuscole dalla A alla Z e i numeri da 0 a 9
+
+.. |image0| image:: ../images/header.png

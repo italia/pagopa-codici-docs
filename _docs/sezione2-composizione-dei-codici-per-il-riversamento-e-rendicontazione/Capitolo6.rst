@@ -60,5 +60,5 @@ Marca da bollo digitale, per i quali non è necessario effettuare alcun
 riversamento, si rimanda a quanto
 :ref:`indicato al § 5.1 <specificità-per-il-pagamento-della-marca-da-bollo-digitale>`.
 
-.. |image0| image:: images/header.png
-.. |image1| image:: images/image7.png
+.. |image0| image:: ../images/header.png
+.. |image1| image:: ../images/image7.png

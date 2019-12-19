@@ -409,6 +409,6 @@ Esempi: **2015-07-15xxxxxxxx-0000000001**
 
 **2015-07-15xxxxxxxx-hh_mm_ss_nnn**
 
-.. |image0| image:: images/header.png
-.. |image1| image:: images/image7.png
-.. |image2| image:: images/image7.png
+.. |image0| image:: ../images/header.png
+.. |image1| image:: ../images/image7.png
+.. |image2| image:: ../images/image7.png
