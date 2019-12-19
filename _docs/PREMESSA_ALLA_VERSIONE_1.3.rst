@@ -1,15 +1,16 @@
-|image0|
-
-+-----------------------------------------------------------------------+
-| **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
-| RIVERSAMENTO E RENDICONTAZIONE**                                      |
-|                                                                       |
-| *Allegato A alle "Linee guida per l'effettuazione dei pagamenti       |
-| elettronici a favore delle* *pubbliche amministrazioni e dei gestori  |
-| di pubblici servizi"*                                                 |
-|                                                                       |
-| **Versione 1.3.1 - gennaio 2018**                                     |
-+-----------------------------------------------------------------------+
+﻿
+|AGID_logo_carta_intestata-02.png|
+   
++---------------------------------------------------------------------------------------------------+
+| **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
+|                                                                                                   |
+|                                                                                                   |
+| *Allegato A alle "Linee guida per l'effettuazione dei pagamenti elettronici a favore delle*       |
+| *pubbliche amministrazioni e dei gestori di pubblici servizi"*                                    |
+|                                                                                                   |
+|                                                                                                   |
+| **Versione 1.3.1 - gennaio 2018**                                                                 |
++---------------------------------------------------------------------------------------------------+
 
 **Premessa alla Versione 1.3**
 
@@ -35,14 +36,13 @@ anticipate con il documento monografico "*Utilizzo del codice IUV per
 enti plurintermediati*".
 
 Le presenti specifiche aggiornano le regole di generazione del codice
-IUV definite al `paragrafo
-7.4.1 <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#il-numero-avviso-e-larchivio-dei-pagamenti-in-attesa>`__
-della versione 1.7.0 (marzo 2016) delle "Specifiche Attuative del Nodo
-dei Pagamenti-SPC" Allegato B alle Linee guida (di seguito SANP).
+IUV definite al `paragrafo 7.4.1 <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#il-numero-avviso-e-larchivio-dei-pagamenti-in-attesa>`_ della versione 1.7.0 (marzo 2016)
+delle "Specifiche Attuative del Nodo dei Pagamenti-SPC" Allegato B alle
+Linee guida (di seguito SANP).
 
 La presente versione tiene inoltre conto delle modifiche apportate
 all'articolo 5 del Codice dell'Amministrazione Digitale dal decreto
-legislativo 13 dicembre 2017, n. 217.
+legislativo 13 dicembre 2017, n. 217.
 
 Per facilitare il compito del lettore, le variazioni rilevanti apportate
 a capitoli, paragrafi, sotto paragrafi (nel seguito parte o parti di
@@ -91,16 +91,18 @@ graficamente come segue:
 |                                   | rappresentata.                    |
 +-----------------------------------+-----------------------------------+
 
-.. |image0| image:: images/header.png
-.. |image5| image:: m%20edia/image4.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
+.. |image5| image:: media/image4.png
    :width: 0.7874in
    :height: 0.24059in
-.. |image6| image:: m%20edia/image5.png
+.. |image6| image:: media/image5.png
    :width: 0.7874in
    :height: 0.2428in
-.. |image7| image:: m%20edia/image6.png
+.. |image7| image:: media/image6.png
    :width: 0.7874in
    :height: 0.22651in
-.. |image8| image:: m%20edia/image7.png
+.. |image8| image:: media/image7.png
    :width: 0.7874in
    :height: 0.22905in

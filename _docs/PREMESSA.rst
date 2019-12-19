@@ -1,23 +1,24 @@
-|image0|
+﻿
+|AGID_logo_carta_intestata-02.png|
 
-+-----------------------------------------------------------------------+
-| **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO,       |
-| RIVERSAMENTO E RENDICONTAZIONE**                                      |
-|                                                                       |
-| *Allegato A alle "Linee guida per l'effettuazione dei pagamenti       |
-| elettronici a favore delle* *pubbliche amministrazioni e dei gestori  |
-| di pubblici servizi"*                                                 |
-|                                                                       |
-| **Versione 1.3.1 - gennaio 2018**                                     |
-+-----------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------+
+| **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
+|                                                                                                   |
+|                                                                                                   |
+| *Allegato A alle "Linee guida per l'effettuazione dei pagamenti elettronici a favore delle*       |
+| *pubbliche amministrazioni e dei gestori di pubblici servizi"*                                    |
+|                                                                                                   |
+|                                                                                                   |
+| **Versione 1.3.1 - gennaio 2018**                                                                 |
++---------------------------------------------------------------------------------------------------+
 
 .. _Premessa:
 
 Premessa
 ========
 
-Il decreto-legge 18 ottobre 2012, n. 179 convertito, con modificazioni,
-dalla legge 17 dicembre 2012, n. 221, ha introdotto importanti norme
+Il decreto-legge 18 ottobre 2012, n. 179 convertito, con modificazioni,
+dalla legge 17 dicembre 2012, n. 221, ha introdotto importanti norme
 volte a favorire l’azzeramento del “*digital divide*” e lo sviluppo
 dell’utilizzo della moneta elettronica. In particolare, il comma 1
 dell’articolo 15 (Pagamenti elettronici) definisce una nuova
@@ -34,7 +35,7 @@ reso disponibile il documento (di seguito Linee guida) che,
 nell’illustrare le modalità da adottare per l’effettuazione di detti
 pagamenti, rimanda a specifici documenti tecnici.
 
-Le presenti Specifiche attuative rappresentano l’\ **Allegato A** alle
+Le presenti Specifiche attuative rappresentano l’**Allegato A** alle
 citate Linee guida e devono essere utilizzate in combinazione con
 quest’ultime, nonché con il documento (**Allegato B**), documenti ai
 quali si rimanda per tutte le voci e gli argomenti qui non
@@ -48,4 +49,8 @@ Come riportato nelle citate Linee guida, le presenti specifiche fanno
 riferimento agli standard internazionali SEPA che utilizzano il formato
 `UNIFI ISO 20022 <http://www.iso20022.org/>`__.
 
-.. |image0| image:: images/header.png
+
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
+   
