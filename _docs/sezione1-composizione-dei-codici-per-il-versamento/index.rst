@@ -5,14 +5,14 @@ Sezione I : composizione-dei-codici-per-il-versamento
 
 
 .. highlights::
-   composizione codici versamento
+   Composizione codici per il versamento
 
 .. toctree::
    :numbered:
    :hidden:
 
-    Capitolo1
-	Capitolo2
-	Capitolo3
-	Capitolo4
+   Capitolo1
+   Capitolo2
+   Capitolo3
+   Capitolo4
 

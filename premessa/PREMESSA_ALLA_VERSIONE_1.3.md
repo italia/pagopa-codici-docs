@@ -50,18 +50,18 @@ testo) presenti nella precedente versione 1.2.1, sono segnalate
 graficamente come segue:
 
 +-----------------------------------+-----------------------------------+
-| ![image5](m                       | Indica la nuova parte di testo    |
-| edia/image4.png){width="0.7874in" | inserita.                         |
-| height="0.24059in"}               |                                   |
+| ![](../images/image4.png)         | Indica la nuova parte di testo    |
+|                                   | inserita.                         |
+|                                   |                                   |
 |                                   | Si tenga presente che, se anche   |
 |                                   | non contrassegnati, tutti i sotto |
 |                                   | paragrafi facenti parte della     |
 |                                   | nuova parte di testo sono da      |
 |                                   | considerare innovazioni.          |
 +-----------------------------------+-----------------------------------+
-| ![image6](m                       | Indica che le nuove parti di      |
-| edia/image5.png){width="0.7874in" | testo hanno integralmente         |
-| height="0.2428in"}                | sostituito dal testo del nuovo    |
+| ![](../images/image5.png)         | Indica che le nuove parti di      |
+|                                   | testo hanno integralmente         |
+|                                   | sostituito dal testo del nuovo    |
 |                                   | paragrafo.                        |
 |                                   |                                   |
 |                                   | Si tenga presente che, se anche   |
@@ -70,9 +70,9 @@ graficamente come segue:
 |                                   | parte di testo che innova sono da |
 |                                   | considerare innovazioni.          |
 +-----------------------------------+-----------------------------------+
-| ![image7](m                       | Indica che la parte di testo      |
-| edia/image6.png){width="0.7874in" | contiene delle modifiche          |
-| height="0.22651in"}               | funzionali e/o tecniche.          |
+| ![](media/image6.png)             | Indica che la parte di testo      |
+|                                   | contiene delle modifiche          |
+|                                   | funzionali e/o tecniche.          |
 +-----------------------------------+-----------------------------------+
 |                                   | Si tenga presente che il testo    |
 |                                   | impattato dalla modifica è        |
@@ -80,9 +80,9 @@ graficamente come segue:
 |                                   | verticale come quella a fianco    |
 |                                   | rappresentata.                    |
 +-----------------------------------+-----------------------------------+
-| ![image8](m                       | Indica che la parte di testo      |
-| edia/image7.png){width="0.7874in" | contiene delle precisazioni       |
-| height="0.22905in"}               | funzionali e/o tecniche.          |
+| ![](media/image7.png)             | Indica che la parte di testo      |
+|                                   | contiene delle precisazioni       |
+|                                   | funzionali e/o tecniche.          |
 +-----------------------------------+-----------------------------------+
 |                                   | Si tenga presente che il testo    |
 |                                   | impattato dalla precisazione è    |
