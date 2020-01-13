@@ -4,14 +4,18 @@
   "description": "Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Rendicondazione di pagoPA - versione 1.3.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "md2rst": "node script/md2rst.js",
+    "puml2png": "node script/puml2png.js",
+    "build-media": "node script/media2media.js",
+    "start": "npm run build-media && npm run puml2png && npm run md2rst"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/italia/pagopa-codici-docs.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "cc0-1.0",
   "bugs": {
     "url": "https://github.com/italia/pagopa-codici-docs/issues"
   },
